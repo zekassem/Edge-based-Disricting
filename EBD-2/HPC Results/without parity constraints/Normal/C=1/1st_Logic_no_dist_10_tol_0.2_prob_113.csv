@@ -1,0 +1,8 @@
+Computation Time_WO_Logic_Cuts,Objective Function
+30.91,18029.4
+Lower_Bound,Number of Iterations,Number of Cuts
+18027.8,1,0
+Computation Time_W_Logic_Cuts,Objective Function
+22.14,18029.4
+Lower_Bound,Number of Iterations,Number of Cuts
+18028.67,1,0
